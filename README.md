@@ -1,2 +1,1 @@
-# TroyWords
-https://troywords.wordpress.com
+# https://troywords.wordpress.com
