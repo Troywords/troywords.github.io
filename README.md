@@ -1,2 +1,2 @@
-# troywords.wordpress.com
+# TroyWords Websitesi
 troywords.wordpress.com
