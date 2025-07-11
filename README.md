@@ -1,2 +1,2 @@
-# troywords.github.io
+# TroyWords
 https://troywords.wordpress.com
