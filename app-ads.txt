@@ -294,3 +294,4 @@ contextweb.com, 563079, RESELLER, 89ff185a4c4e857c
 openx.com, 540396775, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
+vungle.com, 6ac0b2d6020a978505cf94e4, DIRECT, c107d686becd2d77
